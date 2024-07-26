@@ -1,2 +1,2 @@
-# Dife12.github.io-SimpleFireworksDisplaySimulation
+# SimpleFireworksDisplaySimulation
 簡単な花火大会のシーン
