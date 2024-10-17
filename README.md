@@ -1,2 +1,2 @@
-# SimpleFireworksDisplaySimulation
+# SimpleFireworksSimulation
 Three.jsで作った簡単な花火大会のシーン
